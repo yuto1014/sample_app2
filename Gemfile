@@ -32,3 +32,7 @@ end
 group :production do
   gem 'pg', '0.20.0'
 end
+
+gem 'rails',          '5.1.6'
+gem 'bootstrap-sass', '3.3.7'
+gem 'bcrypt',         '3.1.12'
